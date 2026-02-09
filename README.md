@@ -43,4 +43,4 @@ For users who find typing difficult (like elderly patients), we introduced **Kus
 
 ---
 
-** We want to ensure no patient or caregiver feels lost after a doctor's visit.**
+**We want to ensure no patient or caregiver feels lost after a doctor's visit.**
