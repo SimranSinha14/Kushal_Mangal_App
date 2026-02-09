@@ -39,12 +39,8 @@ For users who find typing difficult (like elderly patients), we introduced **Kus
 
 * **Primary Color:** `Teal (#008080)` - Represents trust, professional healthcare, and healing.
 * **Accent Color:** `Saffron/Gold` - Represents cultural warmth and optimism.
-* **Persona:** **Mitra**, the anime guide, ensuring the app feels human, not robotic.
+* **Persona:** **Kusha**, the anime guide, ensuring the app feels human, not robotic.
 
 ---
 
-## 📂 Project Documents
-* [Requirement_Document.md](./Requirement_Document.md)
-* [Design_Document.md](./Design_Document.md)
----
 ** We want to ensure no patient or caregiver feels lost after a doctor's visit.**
