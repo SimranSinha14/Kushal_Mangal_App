@@ -15,17 +15,12 @@ Many patients and caregivers face confusion *after* leaving the hospital. **Kush
 
 ## ✨ Key Features
 
-### 👩‍⚕️ Meet Kushaa: Your AI Guide
-Mitra is our anime-style AI companion who wears a traditional saree. She is designed to build trust and provide a friendly face to the clinical experience.
-* **Cultural Connect:** Designed to resonate with Indian users, especially those in rural communities.
-
 ### 🎙️ Voice-to-Voice Service
 For users who find typing difficult (like elderly patients), we introduced **Kusha**.
 * **Zero-Typing Interface:** Fully functional voice-to-voice interaction.
 * **Regional Support:** Supports 10+ Indian languages (Hindi, Bhojpuri, Maithili, etc.).
 * **Caregiver Friendly:** Allows caregivers to get quick answers while multi-tasking.
 
----
 
 ## 🚦 3-Tier AI Support System
 
@@ -35,12 +30,5 @@ For users who find typing difficult (like elderly patients), we introduced **Kus
 
 ---
 
-## 🎨 Design & Visual Identity
-
-* **Primary Color:** `Teal (#008080)` - Represents trust, professional healthcare, and healing.
-* **Accent Color:** `Saffron/Gold` - Represents cultural warmth and optimism.
-* **Persona:** **Kusha**, the anime guide, ensuring the app feels human, not robotic.
-
----
 
 **We want to ensure no patient or caregiver feels lost after a doctor's visit.**
